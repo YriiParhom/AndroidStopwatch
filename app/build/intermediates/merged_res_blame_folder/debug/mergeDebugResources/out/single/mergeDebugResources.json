@@ -4,12 +4,12 @@
         "source": "C:\\Users\\YUREC\\.gradle\\daemon\\8.6\\ru.parhom.stopwatch.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\YUREC\\.gradle\\daemon\\8.6\\ru.parhom.stopwatch.app-debug-4:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\YUREC\\.gradle\\daemon\\8.6\\ru.parhom.stopwatch.app-main-6:\\xml\\data_extraction_rules.xml"
-    },
-    {
         "merged": "C:\\Users\\YUREC\\.gradle\\daemon\\8.6\\ru.parhom.stopwatch.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\YUREC\\.gradle\\daemon\\8.6\\ru.parhom.stopwatch.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YUREC\\.gradle\\daemon\\8.6\\ru.parhom.stopwatch.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\YUREC\\.gradle\\daemon\\8.6\\ru.parhom.stopwatch.app-main-6:\\xml\\data_extraction_rules.xml"
     },
     {
         "merged": "C:\\Users\\YUREC\\.gradle\\daemon\\8.6\\ru.parhom.stopwatch.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
