@@ -59,6 +59,28 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    override fun onStart() {
+        super.onStart()
+    }
+
+    override fun onResume() {
+        super.onResume()
+
+        if (running) {
+            setBaseTime()
+            stopwatch.start()
+            offset = 0
+        }
+    }
+
+    override fun onPause() {
+        if (running) {
+            super.onPause()
+            saveOffset()
+            stopwatch.stop()
+        }
+    }
+
     fun setBaseTime() {
         stopwatch.base = SystemClock.elapsedRealtime() - offset
     }
